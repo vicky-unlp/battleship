@@ -1,0 +1,6 @@
+{
+    "name": "battleship",
+    "jest": {
+      "verbose": true
+    }
+  }
